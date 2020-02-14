@@ -1,0 +1,24 @@
+﻿{
+  "id": 323,
+  "username": "rinood30",
+  "profile": {
+    "full_name": "Shabrina Fauzan",
+    "birthday": "1988-10-30",
+    "phones": [
+      "08133473821",
+      "082539163912"
+    ]
+  },
+  "articles:": [
+    {
+      "id": 3,
+      "title": "Tips Berbagi Makanan",
+      "published_at": "2019-01-03T16:00:00"
+    },
+    {
+      "id": 7,
+      "title": "Cara Membakar Ikan",
+      "published_at": "2019-01-07T14:00:00"
+    }
+  ]
+}
