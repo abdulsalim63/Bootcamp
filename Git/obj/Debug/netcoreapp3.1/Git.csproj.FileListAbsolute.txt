@@ -1,0 +1,11 @@
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git.deps.json
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git.runtimeconfig.json
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git.runtimeconfig.dev.json
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git.dll
+/Users/gigaming/Projects/Git/Git/bin/Debug/netcoreapp3.1/Git.pdb
+/Users/gigaming/Projects/Git/Git/obj/Debug/netcoreapp3.1/Git.csprojAssemblyReference.cache
+/Users/gigaming/Projects/Git/Git/obj/Debug/netcoreapp3.1/Git.AssemblyInfoInputs.cache
+/Users/gigaming/Projects/Git/Git/obj/Debug/netcoreapp3.1/Git.AssemblyInfo.cs
+/Users/gigaming/Projects/Git/Git/obj/Debug/netcoreapp3.1/Git.dll
+/Users/gigaming/Projects/Git/Git/obj/Debug/netcoreapp3.1/Git.pdb
